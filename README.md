@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am a 16 years old CYBER SECURITY STUDENT⚡. I am a PROGRAMMER🤔. Also I am a HACKER who find security bugs on web applications.
+I am a 16 years old CYBER SECURITY RESEARCHER⚡. I am a PROGRAMMER🤔. Also I like to find security bugs on web applications.
 
 
 - 🔭 I’m a student of St.Aloysius College Ratnapura.
