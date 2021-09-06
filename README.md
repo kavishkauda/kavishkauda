@@ -2,7 +2,7 @@
 
 [![HTB](https://www.hackthebox.eu/badge/image/667531)](https://app.hackthebox.eu/profile/667531)
 
-I am a 17 years old CYBER SECURITY RESEARCHER⚡. I am a PROGRAMMER🤔. Also I like to find security bugs on web applications.
+I am a 17 years old OFFENSIVE CYBER SECURITY RESEARCHER⚡. I am a PROGRAMMER🤔. Also I like to find security bugs on web applications.
 
 
 - 🔭 I’m a student of St.Aloysius College Ratnapura.
