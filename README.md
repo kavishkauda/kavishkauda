@@ -6,7 +6,7 @@ I am a 17 years old OFFENSIVE CYBER SECURITY RESEARCHER⚡. I am a PROGRAMMER�
 
 - Website https://kvsecurity.github.io/
 - 🔭 I’m a student of St.Aloysius College Ratnapura.
-- 🌱 I’m currently learning maths as my A/L subject.
+- 🌱 I’m learning maths as my A/L subject.
 - 📫 How to reach me: kavishkaudaneth16417@gmail.com
 - 😄 Pronouns: KvHacker, KvSec, Kv
 - ⚡ Fun fact: Some people say I'm tall like a coconut tree🌴😂
