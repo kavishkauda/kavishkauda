@@ -4,10 +4,9 @@
 
 I am a 18 years old CYBERSECURITY RESEARCHER⚡,PROGRAMMER & WEB DEV🤗. I like to find security bugs on web applications.
 
-- 💟 Website [kavishkauda.web.app](https://kavishkauda.web.app/)
 - 🔭 I’m a student of St.Aloysius College Ratnapura.
-- 🌱 I’m learning maths as my A/L subject.
-- 📫 How to reach me: kvh4ck3r@gmail.com
+- 🌱 I’m learning Maths as my A/L subject.
+- 📫 How to reach me: Telegram > @kv_sec
 - 😄 Pronouns: KvHacker, KvSec, Kv
-- ⚡ Fun fact: Some people say I'm tall like a coconut tree🌴😂
+- ⚡ Fun fact: Some people think I'm a BLACK-HAT 😂
 
