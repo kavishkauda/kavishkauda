@@ -12,7 +12,7 @@ Currently, I'm working as a full-stack developer.
 - ⚡ Fun fact: YOU CAN'T SEE ME!
 
 ## Languages
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,python,php,arduino,c,go&perline=4)]()
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,python,php,arduino,c,go&perline=5)]()
 ## Frameworks & other
-[![My Skills](https://skillicons.dev/icons?i=firebase,vue,flask,sqlite,mysql,tailwind,bootstrap,netlify,htmx&perline=4)]()
+[![My Skills](https://skillicons.dev/icons?i=firebase,vue,flask,sqlite,mysql,tailwind,bootstrap,netlify,htmx&perline=5)]()
 
