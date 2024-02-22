@@ -3,10 +3,10 @@
 [![HTB](https://www.hackthebox.eu/badge/image/667531)](https://app.hackthebox.eu/profile/667531)
 
 I am a 19 years old CYBERSECURITY RESEARCHER⚡,PROGRAMMER & WEB DEV🤗. I like to find security bugs on web applications.<br>
-Currently, I'm working as a full-stack software developer.
+I'm freelancing as a full-stack software developer.
 
 - 🔭 Working for my dream.
-- 🌱 Currently diving into JavaScript and expanding my programming language expertise.
+- 🌱 Currently diving into frontend developments.
 
 ## Languages
 [![My Skills](https://skillicons.dev/icons?i=js,python,html,css,php,c,arduino&perline=5)]()
