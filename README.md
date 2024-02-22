@@ -9,7 +9,7 @@ Currently, I'm working as a full-stack software developer.
 - 🌱 Currently diving into JavaScript and expanding my programming language expertise.
 
 ## Languages
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,python,php,arduino,c,go&perline=5)]()
+[![My Skills](https://skillicons.dev/icons?i=js,python,html,css,php,c,arduino&perline=5)]()
 ## Frameworks & other
 [![My Skills](https://skillicons.dev/icons?i=firebase,vue,flask,sqlite,mysql,tailwind,bootstrap,netlify,htmx&perline=5)]()
 
