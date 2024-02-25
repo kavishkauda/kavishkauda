@@ -9,6 +9,9 @@ I'm freelancing as a full-stack software developer.
 - 🔭 Working for my dream.
 - 🌱 Currently diving into frontend developments.
 
+## Projects
+- https://srilanka-tourism.netlify.app/
+
 ## Languages
 [![My Skills](https://skillicons.dev/icons?i=js,python,html,css,php,c,arduino&perline=5)]()
 ## Frameworks & other
