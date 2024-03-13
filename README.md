@@ -7,7 +7,7 @@ I'm freelancing as a full-stack software developer.
 - 🔭 Working for my dream.
 - 🌱 Currently diving into frontend developments.
 
-## Projects
+## Side-Projects
 - https://srilanka-tourism.netlify.app/
 
 ## Languages
