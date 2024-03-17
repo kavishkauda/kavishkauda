@@ -1,6 +1,6 @@
 ## Hi 👋, I'm Udaneth (Kv)
 
-I am a 19 years old CYBERSECURITY RESEARCHER⚡,PROGRAMMER & WEB DEV🤗.<br>
+I am a 19 years old CYBERSECURITY RESEARCHER⚡, PROGRAMMER & WEB DEV 🌐.<br>
 I like to find security bugs on web applications.<br>
 I'm freelancing as a full-stack software developer.
 
