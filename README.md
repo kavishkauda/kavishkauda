@@ -1,11 +1,11 @@
 ## Hi 👋, I'm Udaneth (Kv)
 
-I am a 19 years old CYBERSECURITY RESEARCHER⚡, PROGRAMMER & WEB DEV 🌐.<br>
+I am a 20 years old GRAPHICS DESIGNER⚡, PROGRAMMER & WEB DEV 🌐.<br>
 I like to find security bugs on web applications.<br>
-I'm freelancing as a full-stack software developer.
+I'm freelancing as a graphics designer and a full-stack software developer.
 
 - 🔭 Working for my dream.
-- 🌱 Currently diving into frontend developments.
+- 🌱 Currently diving into digital marketing.
 
 ## Side-Projects
 - https://srilanka-tourism.netlify.app/
