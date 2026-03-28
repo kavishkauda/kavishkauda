@@ -1,6 +1,6 @@
 ## Hi 👋, I'm Udaneth (Kv)
 
-I am a 20 years old GRAPHICS DESIGNER⚡, PROGRAMMER & WEB DEV 🌐.<br>
+I am a 22 years old GRAPHICS DESIGNER⚡, PROGRAMMER & WEB DEV 🌐.<br>
 I like to find security bugs on web applications.<br>
 I'm freelancing as a graphics designer and a full-stack software developer.
 
